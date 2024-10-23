@@ -34,8 +34,8 @@ header {
 
 nav {
     position: fixed; 
-    top: 100px; 
-    right: 0; 
+    top: 250px; 
+    right: 5px; 
     width: 200px; 
     background-color: rgba(0, 2, 0, 0.2); 
     padding: 20px;
