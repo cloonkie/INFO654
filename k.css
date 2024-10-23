@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Copperplate', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 20px 0;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+
+nav {
+    position: fixed; 
+    top: 100px; 
+    right: 0; 
+    width: 200px; 
+    background-color: rgba(0, 2, 0, 0.2); 
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(255, 255, 255, 0.2); 
+    border-radius: 10px; 
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+nav ul li {
+    margin: 20px 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+}
+
+nav ul li a:hover {
+    color: green;
+}
+
+section {
+    width: 70%; 
+}
+
+.video-section {
+    margin-left: 20px; 
+}
+
+footer {
+    position: fixed;
+    bottom: 0; 
+    width: 100%; 
+    padding: 20px;
+    background-color: black;
+    z-index: 1000; 
+}
+
+footer p {
+    position: fixed;
+    right: 150px;
+}
+
+footer li {
+    list-style-type: none; 
+    color: white; 
+    font-family: 'Arial', sans-serif; 
+    font-size: 16px;
+    font-weight: 400; 
+    line-height: 1.5; 
+}
+
+footer img.small-logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    float: left; 
+}
+
+@media screen and (max-width: 768px) {
+    .content {
+        flex-direction: column;
+    }
+
+    section {
+        width: 100%; 
+    }
+
+    nav {
+        position: static; 
+        width: 100%;
+        top: 0; 
+        padding: 10px;
+    }
+}
+
+table {
+    position: fixed; 
+    left: 200px;
+    top: 150px; 
+    width: 600px;
+    border-collapse: collapse;
+    background-color: white;
+    text-align: left;
+    align-items: center;
+    height: 600px;
+    margin: 10;
+    background-color: 
+    
+}
+
+th, td {
+    padding: 10px;
+    color: black;
+}
+
+th {
+    background-color: orange;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+.instagram-container {
+    position: absolute; 
+    top: 150px; 
+    right: 250px; 
+}
+
+.spotify-container {
+    position: absolute; 
+    top: 150px; 
+    left: 250px; 
+}
