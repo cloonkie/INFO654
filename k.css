@@ -87,7 +87,7 @@ footer.p {
     right: 150px;
 }
 
-footer p {
+pp {
     margin: 20px 0;
     text-decoration: none;
     color: white;
@@ -96,7 +96,7 @@ footer p {
     display: block;
 }
 
-footer p:hover {
+pp:hover {
     color: orange;
 }
 
