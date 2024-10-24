@@ -82,12 +82,9 @@ footer {
     z-index: 1000; 
 }
 
-footer.p {
+footer p {
     position: fixed;
     right: 150px;
-}
-
-pp {
     margin: 20px 0;
     text-decoration: none;
     color: white;
@@ -96,7 +93,7 @@ pp {
     display: block;
 }
 
-pp:hover {
+p:hover {
     color: orange;
 }
 
@@ -104,7 +101,7 @@ footer img.small-logo {
     width: 50px;
     height: 50px;
     margin-top: 10px;
-    float: center; 
+    float: right; 
 }
 
 @media screen and (max-width: 768px) {
