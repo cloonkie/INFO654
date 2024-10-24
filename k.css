@@ -84,7 +84,7 @@ footer {
 
 footer p {
     position: fixed;
-    right: 150px;
+    left: 150px;
     margin: 20px 0;
     text-decoration: none;
     color: white;
