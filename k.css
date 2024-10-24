@@ -96,6 +96,7 @@ footer ul:hover {
 }
 
 footer img.small-logo {
+    right: 50px
     width: 60px;
     height: 60px;
     margin-top: 10px;
