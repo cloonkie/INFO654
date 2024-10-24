@@ -82,7 +82,7 @@ footer {
     z-index: 1000; 
 }
 
-footer p {
+ugh {
     position: fixed;
     left: 150px;
     margin: 20px;
@@ -92,7 +92,7 @@ footer p {
     display: block;
 }
 
-footer p:hover {
+ugh:hover {
     color: orange;
 }
 
