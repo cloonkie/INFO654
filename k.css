@@ -32,7 +32,7 @@ header {
     padding: 20px;
 }
 
-bark {
+nav {
     position: fixed; 
     top: 250px; 
     right: 5px; 
@@ -82,7 +82,7 @@ footer {
     z-index: 1000; 
 }
 
-meow {
+footer ul {
     position: fixed; 
     bottom: 20px; 
     left: 50px; 
@@ -91,7 +91,7 @@ meow {
     border-radius: 10px; 
 }
 
-meow:hover {
+footer ul:hover {
     color: orange;
 }
 
