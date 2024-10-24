@@ -87,11 +87,8 @@ footer p {
     right: 150px;
 }
 
-footer ul li {
+footer a {
     margin: 20px 0;
-}
-
-footer ul li a {
     text-decoration: none;
     color: white;
     font-size: 1.2rem;
@@ -99,7 +96,7 @@ footer ul li a {
     display: block;
 }
 
-footer ul li a:hover {
+footer a:hover {
     color: orange;
 }
 
