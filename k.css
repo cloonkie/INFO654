@@ -96,7 +96,7 @@ footer p {
     display: block;
 }
 
-footer a:hover {
+footer p:hover {
     color: orange;
 }
 
