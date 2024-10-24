@@ -95,7 +95,7 @@ footer p:hover {
     color: orange;
 }
 
-footer img.small-logo {
+small-logo {
     right: 50px
     width: 60px;
     height: 60px;
