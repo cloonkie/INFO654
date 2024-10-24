@@ -82,12 +82,12 @@ footer {
     z-index: 1000; 
 }
 
-footer p {
+footer.p {
     position: fixed;
     right: 150px;
 }
 
-footer a {
+footer p {
     margin: 20px 0;
     text-decoration: none;
     color: white;
