@@ -32,12 +32,12 @@ header {
     padding: 20px;
 }
 
-nav {
+bark {
     position: fixed; 
     top: 250px; 
     right: 5px; 
     width: 200px; 
-    background-color: rgba(0, 2, 0, 0.2); 
+    background-color: rgba(0, 2, 0, 0.4); 
     padding: 20px;
     box-shadow: 2px 0 5px rgba(255, 255, 255, 0.2); 
     border-radius: 10px; 
@@ -82,17 +82,16 @@ footer {
     z-index: 1000; 
 }
 
-ugh {
-    position: fixed;
-    left: 150px;
-    margin: 20px;
-    color: white;
-    font-size: 1.2rem;
-    font-weight: bold;
-    display: block;
+meow {
+    position: fixed; 
+    bottom: 20px; 
+    left: 50px; 
+    width: 200px; 
+    padding: 20px;
+    border-radius: 10px; 
 }
 
-ugh:hover {
+meow:hover {
     color: orange;
 }
 
