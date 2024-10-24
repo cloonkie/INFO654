@@ -87,7 +87,7 @@ footer p {
     right: 150px;
 }
 
-footer li {
+footer.li {
     list-style-type: none; 
     color: white; 
     font-family: 'Arial', sans-serif; 
@@ -96,16 +96,7 @@ footer li {
     line-height: 1.5; 
 }
 
-footer li:visited {
-    list-style-type: none; 
-    color: white; 
-    font-family: 'Arial', sans-serif; 
-    font-size: 16px;
-    font-weight: 400; 
-    line-height: 1.5; 
-}
-
-li {
+footer.li:visited {
     list-style-type: none; 
     color: white; 
     font-family: 'Arial', sans-serif; 
