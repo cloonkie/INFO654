@@ -32,6 +32,10 @@ header {
     padding: 20px;
 }
 
+.video-section {
+    margin-left: 20px; 
+}
+
 nav {
     position: fixed; 
     top: 250px; 
@@ -69,16 +73,14 @@ section {
     width: 70%; 
 }
 
-.video-section {
-    margin-left: 20px; 
-}
-
 footer {
     position: fixed;
     bottom: 0; 
     width: 100%; 
     padding: 20px;
     background-color: black;
+    font-weight: bold;
+    font-color: white;
 }
 
 footer p:hover {
