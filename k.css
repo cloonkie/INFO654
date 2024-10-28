@@ -84,7 +84,7 @@ footer {
 meow {
     position: fixed; 
     bottom: 20px; 
-    left: 20px; 
+    right: 20px; 
     padding: 20px;
     border-radius: 10px; 
 }
@@ -95,10 +95,9 @@ footer p:hover {
 
 frog {
     position: fixed; 
-    right: 50px
+    left: 50px
     width: 30px;
     height: 30x;
-    margin-top: 10px;
 }
 
 @media screen and (max-width: 768px) {
