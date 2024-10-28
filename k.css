@@ -9,7 +9,7 @@ body {
 h1 {
     font-family: 'Copperplate', sans-serif;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 60px;
     text-align: center;
     color: white;
     margin: 0;
@@ -62,7 +62,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: green;
+    color: lightgreen;
 }
 
 section {
@@ -79,7 +79,6 @@ footer {
     width: 100%; 
     padding: 20px;
     background-color: black;
-    z-index: 1800; 
 }
 
 meow {
@@ -95,7 +94,7 @@ footer p:hover {
     color: orange;
 }
 
-small-logo {
+frog {
     right: 50px
     width: 60px;
     height: 60px;
