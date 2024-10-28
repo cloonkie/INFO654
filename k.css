@@ -85,7 +85,6 @@ meow {
     position: fixed; 
     bottom: 20px; 
     left: 20px; 
-    width: 200px; 
     padding: 20px;
     border-radius: 10px; 
 }
@@ -148,11 +147,11 @@ tr:hover {
 .instagram-container {
     position: absolute; 
     top: 180px; 
-    right: 300px; 
+    right: 450px; 
 }
 
 .spotify-container {
     position: absolute; 
     top: 180px; 
-    left: 250px; 
+    left: 350px; 
 }
