@@ -81,14 +81,6 @@ footer {
     background-color: black;
 }
 
-meow {
-    position: fixed; 
-    bottom: 20px; 
-    right: 20px; 
-    padding: 20px;
-    border-radius: 10px; 
-}
-
 footer p:hover {
     color: orange;
 }
